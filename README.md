@@ -5,6 +5,7 @@ Backend sending data on the requested parameters.
 Frontend receiving processes and displays the data in the form of a table with sorting and filtering fields.
 
 <h2>The backend was created based on the Django framework.</h2>
+
 ### When creating a backend, the following were used:
 - Django framework.
 - Sqlite database.
@@ -12,6 +13,7 @@ Frontend receiving processes and displays the data in the form of a table with s
 - Django-filter
 
 <h2>The frontend was created based on the React library.</h2>
+
 ### When creating a frontend, the following were used:
 - React.
 - React-dom.
