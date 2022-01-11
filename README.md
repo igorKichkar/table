@@ -20,7 +20,7 @@ Frontend receiving processes and displays the data in the form of a table with s
 - Axios.
 
 ### To start the bacend server, you need to:
-- Clone the repository table.
+- Clone the repository "table".
 - Set the virtual environment in the project folder:
 ```
 python3 -m venv .venv
@@ -37,7 +37,12 @@ pip install -r requirements.txt
 ```
 ./manage.py runserver
 ```
-
+### To start the frontend server, you need to:
+- Install dependencies:
+- Start the server:
+```
+npm start
+```
 
 
 
