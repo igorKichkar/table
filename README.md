@@ -1,4 +1,4 @@
-<h1 align="center">TABLE</h1>.
+<h1 align="center">TABLE</h1>
 
 The project consists of two modules: frontebd and backend.
 Backend sending data on the requested parameters.
@@ -37,11 +37,7 @@ pip install -r requirements.txt
 ```
 ./manage.py runserver
 ```
-### Employees can:
-- Register on the site.
-- Book parking spaces for an available time.
-- Edit booking records.
-- Delete records.
+
 
 
 
