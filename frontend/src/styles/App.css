@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+}
+
+.App {
+  width: 800px;
+}
+
+.post {
+  display: flex;
+  padding: 15px;
+  border: 2px solid teal;
+  margin-top: 15px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.btnDelete {
+  padding: 5px 15px;
+  color: teal;
+  font-size: 14px;
+  background: transparent;
+  border: 1px solid teal;
+  cursor: pointer;
+  float: right;
+}
+
+.page {
+  padding: 10px;
+  border: 1px solid teal;
+  cursor: pointer;
+}
+
+.page__wrapper {
+  margin-top: 20px;
+  display: flex;
+}
+
+.page__current {
+  background-color: teal;
+  color: white;
+  font-weight: bold;
+}
+
+.filter_input {
+  width: 700px;
+  display: inline-block;
+}
+
+.select_filter {
+  margin: 5px;
+  width: 243px;
+}
