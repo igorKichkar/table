@@ -35,7 +35,11 @@ pip install -r requirements.txt
 ```
 ./manage.py runserver
 ```
-
+### Employees can:
+- Register on the site.
+- Book parking spaces for an available time.
+- Edit booking records.
+- Delete records.
 
 
 
